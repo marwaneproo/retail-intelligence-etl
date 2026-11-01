@@ -1,0 +1,701 @@
+customer_id,region,customer_segment,signup_date
+C00001,Tangier,Corporate,2022-07-01
+C00002,Marrakech,Consumer,2024-07-22
+C00003,Rabat,Corporate,2024-01-09
+C00004,Tangier,Small Business,2024-03-15
+C00005,Marrakech,Consumer,2023-03-09
+C00006,Rabat,Small Business,2023-04-13
+C00007,Casablanca,Consumer,2023-09-27
+C00008,Tangier,Consumer,2024-02-24
+C00009,Marrakech,Small Business,2024-04-26
+C00010,Agadir,Small Business,2022-01-18
+C00011,Casablanca,Corporate,2023-10-26
+C00012,Tangier,Corporate,2022-04-20
+C00013,Casablanca,Small Business,2022-10-15
+C00014,Casablanca,Corporate,2024-04-09
+C00015,Marrakech,Corporate,2022-09-08
+C00016,Agadir,Small Business,2024-03-07
+C00017,Agadir,Consumer,2023-04-09
+C00018,Fes,Consumer,2022-08-21
+C00019,Casablanca,Corporate,2022-12-01
+C00020,Rabat,Small Business,2023-06-15
+C00021,Casablanca,Consumer,2024-02-05
+C00022,Casablanca,Small Business,2023-08-30
+C00023,Marrakech,Small Business,2024-07-22
+C00024,Fes,Small Business,2024-05-17
+C00025,Rabat,Small Business,2024-01-24
+C00026,Marrakech,Consumer,2023-08-27
+C00027,Fes,Small Business,2022-10-17
+C00028,Fes,Corporate,2023-02-17
+C00029,Fes,Consumer,2022-04-29
+C00030,Agadir,Corporate,2023-01-10
+C00031,Rabat,Corporate,2024-07-15
+C00032,Fes,Consumer,2023-03-02
+C00033,Rabat,Small Business,2022-04-24
+C00034,Tangier,Small Business,2023-10-14
+C00035,Fes,Corporate,2024-08-20
+C00036,Agadir,Consumer,2024-05-17
+C00037,Fes,Small Business,2022-10-02
+C00038,Casablanca,Consumer,2023-03-30
+C00039,Casablanca,Small Business,2023-06-16
+C00040,Tangier,Small Business,2022-09-05
+C00041,Casablanca,Consumer,2022-09-26
+C00042,Agadir,Corporate,2022-08-25
+C00043,Marrakech,Consumer,2024-09-21
+C00044,Fes,Small Business,2024-01-17
+C00045,Tangier,Corporate,2024-04-20
+C00046,Tangier,Consumer,2024-03-27
+C00047,Marrakech,Consumer,2024-08-17
+C00048,Rabat,Corporate,2022-04-16
+C00049,Agadir,Corporate,2024-05-31
+C00050,Marrakech,Corporate,2022-03-08
+C00051,Agadir,Small Business,2023-04-21
+C00052,Agadir,Small Business,2023-08-18
+C00053,Marrakech,Consumer,2022-12-24
+C00054,Rabat,Corporate,2022-05-27
+C00055,Tangier,Consumer,2022-07-12
+C00056,Casablanca,Consumer,2024-04-04
+C00057,Rabat,Corporate,2022-11-15
+C00058,Rabat,Corporate,2022-11-07
+C00059,Tangier,Corporate,2024-07-12
+C00060,Casablanca,Small Business,2022-05-24
+C00061,Tangier,Corporate,2024-07-04
+C00062,Tangier,Corporate,2024-07-09
+C00063,Marrakech,Corporate,2023-08-22
+C00064,Casablanca,Corporate,2022-06-15
+C00065,Fes,Consumer,2022-06-05
+C00066,Fes,Corporate,2022-10-12
+C00067,Marrakech,Corporate,2023-08-01
+C00068,Marrakech,Consumer,2022-06-03
+C00069,Marrakech,Small Business,2023-04-01
+C00070,Rabat,Small Business,2022-04-26
+C00071,Casablanca,Corporate,2023-06-25
+C00072,Fes,Small Business,2022-01-22
+C00073,Agadir,Consumer,2023-12-11
+C00074,Agadir,Consumer,2022-02-25
+C00075,Fes,Small Business,2022-07-14
+C00076,Fes,Corporate,2022-06-24
+C00077,Agadir,Consumer,2024-04-10
+C00078,Rabat,Small Business,2022-02-23
+C00079,Rabat,Corporate,2023-03-06
+C00080,Agadir,Consumer,2023-08-15
+C00081,Agadir,Small Business,2023-05-31
+C00082,Tangier,Consumer,2023-11-12
+C00083,Casablanca,Small Business,2024-03-14
+C00084,Marrakech,Consumer,2023-01-29
+C00085,Casablanca,Consumer,2024-04-08
+C00086,Agadir,Consumer,2022-11-14
+C00087,Casablanca,Corporate,2024-09-11
+C00088,Tangier,Consumer,2023-05-20
+C00089,Agadir,Consumer,2024-01-07
+C00090,Rabat,Corporate,2024-05-25
+C00091,Tangier,Corporate,2024-03-03
+C00092,Rabat,Small Business,2024-05-01
+C00093,Agadir,Corporate,2023-06-21
+C00094,Tangier,Consumer,2022-02-13
+C00095,Agadir,Corporate,2023-05-09
+C00096,Fes,Consumer,2022-07-01
+C00097,Fes,Small Business,2024-06-08
+C00098,Tangier,Corporate,2022-08-25
+C00099,Fes,Small Business,2022-08-17
+C00100,Tangier,Corporate,2022-09-07
+C00101,Tangier,Consumer,2023-10-05
+C00102,Rabat,Consumer,2023-07-26
+C00103,Casablanca,Small Business,2024-08-06
+C00104,Casablanca,Corporate,2023-02-21
+C00105,Agadir,Consumer,2022-10-10
+C00106,Agadir,Consumer,2022-02-19
+C00107,Casablanca,Consumer,2022-01-08
+C00108,Fes,Corporate,2023-01-09
+C00109,Casablanca,Consumer,2024-07-14
+C00110,Casablanca,Consumer,2023-06-08
+C00111,Marrakech,Consumer,2024-06-12
+C00112,Agadir,Consumer,2022-04-12
+C00113,Marrakech,Corporate,2022-04-04
+C00114,Tangier,Consumer,2024-04-13
+C00115,Agadir,Consumer,2022-04-17
+C00116,Fes,Corporate,2022-02-21
+C00117,Agadir,Small Business,2023-02-09
+C00118,Rabat,Small Business,2024-07-13
+C00119,Tangier,Consumer,2023-11-21
+C00120,Casablanca,Consumer,2022-04-10
+C00121,Fes,Small Business,2024-04-17
+C00122,Marrakech,Small Business,2024-04-23
+C00123,Tangier,Small Business,2024-03-11
+C00124,Fes,Consumer,2024-06-21
+C00125,Fes,Corporate,2022-08-28
+C00126,Fes,Consumer,2024-09-06
+C00127,Casablanca,Small Business,2022-11-17
+C00128,Fes,Small Business,2024-03-13
+C00129,Casablanca,Consumer,2023-08-03
+C00130,Rabat,Consumer,2024-02-19
+C00131,Agadir,Small Business,2023-09-20
+C00132,Rabat,Small Business,2023-10-05
+C00133,Rabat,Small Business,2023-09-09
+C00134,Tangier,Consumer,2024-02-18
+C00135,Casablanca,Small Business,2024-01-10
+C00136,Agadir,Consumer,2022-05-15
+C00137,Casablanca,Corporate,2024-04-06
+C00138,Agadir,Consumer,2023-06-21
+C00139,Casablanca,Consumer,2022-11-20
+C00140,Rabat,Small Business,2023-05-30
+C00141,Tangier,Small Business,2024-08-24
+C00142,Rabat,Small Business,2024-05-07
+C00143,Casablanca,Consumer,2024-04-13
+C00144,Tangier,Consumer,2023-04-08
+C00145,Tangier,Small Business,2024-02-24
+C00146,Tangier,Small Business,2023-01-21
+C00147,Tangier,Corporate,2023-11-18
+C00148,Fes,Corporate,2023-10-02
+C00149,Fes,Corporate,2022-09-07
+C00150,Tangier,Consumer,2022-09-24
+C00151,Rabat,Small Business,2022-03-03
+C00152,Rabat,Consumer,2022-05-20
+C00153,Agadir,Corporate,2023-03-10
+C00154,Agadir,Consumer,2023-04-23
+C00155,Fes,Small Business,2022-06-15
+C00156,Casablanca,Consumer,2023-02-21
+C00157,Agadir,Small Business,2023-08-28
+C00158,Agadir,Corporate,2022-08-21
+C00159,Rabat,Consumer,2022-12-05
+C00160,Agadir,Consumer,2023-01-03
+C00161,Rabat,Consumer,2023-05-21
+C00162,Agadir,Consumer,2023-01-02
+C00163,Fes,Consumer,2024-01-07
+C00164,Tangier,Consumer,2022-11-24
+C00165,Agadir,Consumer,2023-03-10
+C00166,Agadir,Corporate,2023-01-15
+C00167,Casablanca,Corporate,2022-07-02
+C00168,Casablanca,Small Business,2023-11-17
+C00169,Fes,Corporate,2022-08-24
+C00170,Agadir,Corporate,2022-10-24
+C00171,Marrakech,Small Business,2024-03-03
+C00172,Rabat,Corporate,2024-08-06
+C00173,Fes,Small Business,2023-11-02
+C00174,Rabat,Small Business,2024-07-05
+C00175,Tangier,Consumer,2024-05-04
+C00176,Fes,Corporate,2023-04-26
+C00177,Marrakech,Small Business,2024-02-10
+C00178,Marrakech,Consumer,2022-11-25
+C00179,Casablanca,Small Business,2023-04-06
+C00180,Agadir,Corporate,2023-06-20
+C00181,Casablanca,Consumer,2024-08-18
+C00182,Agadir,Consumer,2024-04-28
+C00183,Agadir,Small Business,2023-05-05
+C00184,Rabat,Small Business,2023-10-15
+C00185,Casablanca,Consumer,2022-07-22
+C00186,Marrakech,Small Business,2024-03-15
+C00187,Rabat,Small Business,2023-07-08
+C00188,Agadir,Corporate,2023-06-17
+C00189,Marrakech,Corporate,2024-02-06
+C00190,Fes,Corporate,2023-09-25
+C00191,Casablanca,Corporate,2022-03-14
+C00192,Agadir,Small Business,2022-10-16
+C00193,Fes,Consumer,2022-06-26
+C00194,Rabat,Small Business,2024-01-05
+C00195,Casablanca,Consumer,2022-02-05
+C00196,Fes,Corporate,2022-07-22
+C00197,Rabat,Small Business,2023-08-21
+C00198,Marrakech,Corporate,2023-11-26
+C00199,Rabat,Corporate,2023-05-19
+C00200,Marrakech,Consumer,2024-05-10
+C00201,Fes,Corporate,2024-07-07
+C00202,Marrakech,Corporate,2022-05-13
+C00203,Tangier,Small Business,2024-08-10
+C00204,Casablanca,Consumer,2023-09-07
+C00205,Fes,Small Business,2023-09-29
+C00206,Marrakech,Consumer,2022-04-06
+C00207,Casablanca,Small Business,2023-09-14
+C00208,Rabat,Corporate,2023-12-27
+C00209,Marrakech,Consumer,2023-08-04
+C00210,Fes,Small Business,2022-03-26
+C00211,Agadir,Corporate,2023-06-08
+C00212,Tangier,Corporate,2024-07-24
+C00213,Casablanca,Consumer,2023-12-25
+C00214,Casablanca,Corporate,2022-05-18
+C00215,Rabat,Corporate,2024-08-17
+C00216,Casablanca,Small Business,2024-08-16
+C00217,Agadir,Corporate,2022-06-19
+C00218,Rabat,Small Business,2024-03-11
+C00219,Rabat,Consumer,2023-02-11
+C00220,Marrakech,Small Business,2023-08-17
+C00221,Casablanca,Small Business,2023-03-22
+C00222,Rabat,Corporate,2024-02-22
+C00223,Rabat,Corporate,2024-09-23
+C00224,Casablanca,Small Business,2024-03-06
+C00225,Agadir,Small Business,2024-07-20
+C00226,Agadir,Corporate,2024-08-04
+C00227,Rabat,Consumer,2022-04-01
+C00228,Rabat,Consumer,2022-09-11
+C00229,Tangier,Consumer,2023-12-23
+C00230,Rabat,Corporate,2023-08-14
+C00231,Marrakech,Small Business,2022-02-20
+C00232,Fes,Corporate,2022-04-06
+C00233,Rabat,Small Business,2023-06-05
+C00234,Rabat,Corporate,2023-09-09
+C00235,Casablanca,Small Business,2022-06-17
+C00236,Casablanca,Small Business,2022-06-21
+C00237,Rabat,Consumer,2022-05-10
+C00238,Tangier,Small Business,2023-07-19
+C00239,Marrakech,Consumer,2022-01-08
+C00240,Rabat,Consumer,2023-07-27
+C00241,Fes,Consumer,2023-04-21
+C00242,Tangier,Small Business,2023-04-11
+C00243,Marrakech,Consumer,2023-11-11
+C00244,Marrakech,Small Business,2023-06-07
+C00245,Fes,Corporate,2023-12-29
+C00246,Tangier,Corporate,2024-02-03
+C00247,Agadir,Small Business,2024-07-09
+C00248,Casablanca,Consumer,2024-03-10
+C00249,Marrakech,Consumer,2023-06-02
+C00250,Agadir,Small Business,2023-05-08
+C00251,Casablanca,Consumer,2022-08-24
+C00252,Agadir,Small Business,2023-08-23
+C00253,Marrakech,Corporate,2022-05-20
+C00254,Marrakech,Small Business,2024-07-20
+C00255,Agadir,Corporate,2024-04-25
+C00256,Casablanca,Small Business,2022-04-30
+C00257,Agadir,Consumer,2024-02-25
+C00258,Marrakech,Consumer,2022-04-28
+C00259,Fes,Small Business,2023-12-23
+C00260,Casablanca,Corporate,2022-03-29
+C00261,Agadir,Corporate,2023-05-04
+C00262,Fes,Corporate,2023-10-20
+C00263,Fes,Corporate,2023-12-30
+C00264,Rabat,Small Business,2023-02-23
+C00265,Tangier,Consumer,2024-07-10
+C00266,Fes,Small Business,2024-02-14
+C00267,Agadir,Small Business,2022-07-28
+C00268,Fes,Consumer,2023-11-03
+C00269,Fes,Small Business,2024-01-01
+C00270,Agadir,Small Business,2022-11-30
+C00271,Fes,Small Business,2024-01-09
+C00272,Marrakech,Small Business,2024-06-17
+C00273,Fes,Small Business,2024-03-28
+C00274,Agadir,Consumer,2024-02-02
+C00275,Rabat,Small Business,2023-09-27
+C00276,Fes,Small Business,2022-09-28
+C00277,Fes,Corporate,2024-03-06
+C00278,Rabat,Corporate,2022-12-31
+C00279,Agadir,Small Business,2023-06-17
+C00280,Tangier,Corporate,2022-11-11
+C00281,Casablanca,Small Business,2022-11-10
+C00282,Marrakech,Consumer,2022-06-07
+C00283,Tangier,Corporate,2024-08-19
+C00284,Agadir,Corporate,2022-05-28
+C00285,Marrakech,Small Business,2022-03-28
+C00286,Tangier,Small Business,2024-07-25
+C00287,Fes,Consumer,2023-07-10
+C00288,Agadir,Small Business,2023-03-14
+C00289,Fes,Consumer,2024-01-08
+C00290,Fes,Consumer,2023-01-19
+C00291,Marrakech,Corporate,2022-05-08
+C00292,Fes,Corporate,2023-12-31
+C00293,Agadir,Small Business,2022-06-25
+C00294,Casablanca,Consumer,2023-07-07
+C00295,Fes,Small Business,2024-08-07
+C00296,Rabat,Consumer,2024-07-25
+C00297,Rabat,Consumer,2022-12-27
+C00298,Casablanca,Consumer,2024-02-20
+C00299,Tangier,Corporate,2023-09-05
+C00300,Casablanca,Small Business,2023-04-25
+C00301,Tangier,Corporate,2022-05-20
+C00302,Agadir,Consumer,2023-01-12
+C00303,Fes,Corporate,2023-10-14
+C00304,Tangier,Small Business,2024-09-13
+C00305,Tangier,Consumer,2022-01-05
+C00306,Rabat,Corporate,2023-12-19
+C00307,Fes,Consumer,2024-04-26
+C00308,Casablanca,Small Business,2024-08-09
+C00309,Rabat,Consumer,2023-02-28
+C00310,Fes,Corporate,2022-04-29
+C00311,Tangier,Consumer,2022-09-28
+C00312,Agadir,Consumer,2024-04-30
+C00313,Casablanca,Small Business,2024-05-27
+C00314,Rabat,Small Business,2023-09-30
+C00315,Fes,Corporate,2022-05-03
+C00316,Agadir,Corporate,2022-05-02
+C00317,Marrakech,Small Business,2023-04-24
+C00318,Agadir,Corporate,2023-08-12
+C00319,Agadir,Small Business,2022-02-02
+C00320,Agadir,Small Business,2023-11-18
+C00321,Rabat,Corporate,2023-06-29
+C00322,Tangier,Small Business,2022-01-13
+C00323,Marrakech,Consumer,2022-04-06
+C00324,Fes,Small Business,2023-03-31
+C00325,Agadir,Small Business,2023-12-24
+C00326,Fes,Consumer,2024-04-05
+C00327,Marrakech,Small Business,2023-03-08
+C00328,Casablanca,Corporate,2022-10-23
+C00329,Marrakech,Consumer,2024-08-26
+C00330,Marrakech,Small Business,2023-04-04
+C00331,Marrakech,Corporate,2022-11-12
+C00332,Casablanca,Consumer,2023-03-19
+C00333,Rabat,Consumer,2022-01-13
+C00334,Tangier,Corporate,2022-10-29
+C00335,Rabat,Corporate,2023-05-31
+C00336,Rabat,Consumer,2024-07-07
+C00337,Tangier,Small Business,2024-01-09
+C00338,Marrakech,Corporate,2024-02-21
+C00339,Tangier,Small Business,2023-06-29
+C00340,Casablanca,Consumer,2022-04-21
+C00341,Tangier,Small Business,2023-01-26
+C00342,Agadir,Corporate,2024-09-24
+C00343,Casablanca,Corporate,2022-02-14
+C00344,Tangier,Small Business,2024-05-29
+C00345,Casablanca,Small Business,2023-11-16
+C00346,Marrakech,Small Business,2022-10-11
+C00347,Tangier,Corporate,2024-02-17
+C00348,Fes,Corporate,2024-04-16
+C00349,Agadir,Corporate,2022-02-13
+C00350,Rabat,Small Business,2022-04-17
+C00351,Rabat,Small Business,2023-10-28
+C00352,Tangier,Small Business,2024-09-26
+C00353,Casablanca,Small Business,2022-01-24
+C00354,Marrakech,Corporate,2023-10-28
+C00355,Fes,Small Business,2022-05-17
+C00356,Fes,Consumer,2023-10-13
+C00357,Tangier,Consumer,2023-09-16
+C00358,Agadir,Corporate,2022-04-01
+C00359,Casablanca,Small Business,2023-11-12
+C00360,Agadir,Corporate,2024-06-16
+C00361,Fes,Consumer,2024-05-13
+C00362,Casablanca,Corporate,2022-01-29
+C00363,Tangier,Consumer,2022-09-03
+C00364,Tangier,Consumer,2022-08-29
+C00365,Casablanca,Small Business,2023-03-30
+C00366,Tangier,Small Business,2022-05-24
+C00367,Rabat,Small Business,2024-05-04
+C00368,Marrakech,Small Business,2024-02-16
+C00369,Tangier,Small Business,2024-03-19
+C00370,Tangier,Small Business,2022-07-18
+C00371,Casablanca,Small Business,2022-01-15
+C00372,Casablanca,Corporate,2024-06-29
+C00373,Agadir,Consumer,2022-10-16
+C00374,Marrakech,Consumer,2023-10-19
+C00375,Fes,Consumer,2024-06-28
+C00376,Fes,Consumer,2022-02-06
+C00377,Casablanca,Consumer,2022-01-06
+C00378,Rabat,Consumer,2022-01-06
+C00379,Agadir,Consumer,2022-06-06
+C00380,Rabat,Consumer,2022-02-21
+C00381,Tangier,Corporate,2024-03-30
+C00382,Casablanca,Corporate,2023-08-29
+C00383,Rabat,Small Business,2024-09-07
+C00384,Fes,Small Business,2024-03-12
+C00385,Marrakech,Consumer,2024-08-21
+C00386,Agadir,Corporate,2022-08-27
+C00387,Fes,Corporate,2022-10-15
+C00388,Casablanca,Consumer,2024-04-29
+C00389,Marrakech,Consumer,2022-09-02
+C00390,Agadir,Consumer,2022-02-27
+C00391,Marrakech,Corporate,2023-11-01
+C00392,Fes,Small Business,2024-03-11
+C00393,Tangier,Corporate,2024-08-26
+C00394,Rabat,Consumer,2024-07-16
+C00395,Agadir,Corporate,2022-05-01
+C00396,Fes,Consumer,2024-02-12
+C00397,Casablanca,Corporate,2024-04-26
+C00398,Marrakech,Corporate,2023-11-30
+C00399,Agadir,Consumer,2024-03-30
+C00400,Agadir,Consumer,2024-04-17
+C00401,Marrakech,Corporate,2023-03-23
+C00402,Tangier,Corporate,2022-02-10
+C00403,Marrakech,Consumer,2023-04-02
+C00404,Agadir,Corporate,2022-07-21
+C00405,Marrakech,Consumer,2022-04-24
+C00406,Tangier,Small Business,2022-05-05
+C00407,Casablanca,Small Business,2023-11-29
+C00408,Marrakech,Corporate,2023-05-20
+C00409,Tangier,Corporate,2023-06-24
+C00410,Rabat,Small Business,2024-01-16
+C00411,Rabat,Corporate,2023-07-03
+C00412,Agadir,Corporate,2023-09-23
+C00413,Marrakech,Corporate,2022-03-28
+C00414,Agadir,Small Business,2024-05-01
+C00415,Tangier,Small Business,2023-03-25
+C00416,Fes,Corporate,2022-06-05
+C00417,Marrakech,Small Business,2024-03-24
+C00418,Rabat,Consumer,2024-01-05
+C00419,Marrakech,Small Business,2022-02-23
+C00420,Rabat,Small Business,2022-07-13
+C00421,Agadir,Corporate,2022-01-16
+C00422,Fes,Small Business,2022-09-28
+C00423,Marrakech,Consumer,2022-04-10
+C00424,Tangier,Small Business,2023-12-11
+C00425,Rabat,Small Business,2023-06-07
+C00426,Rabat,Small Business,2024-09-07
+C00427,Marrakech,Small Business,2024-01-20
+C00428,Marrakech,Corporate,2023-09-04
+C00429,Fes,Small Business,2023-05-25
+C00430,Agadir,Consumer,2022-02-24
+C00431,Agadir,Consumer,2022-03-12
+C00432,Casablanca,Consumer,2023-09-09
+C00433,Fes,Small Business,2022-01-05
+C00434,Tangier,Corporate,2022-02-12
+C00435,Rabat,Corporate,2022-08-08
+C00436,Tangier,Corporate,2024-06-03
+C00437,Fes,Small Business,2023-04-04
+C00438,Tangier,Consumer,2023-12-11
+C00439,Casablanca,Small Business,2023-02-16
+C00440,Rabat,Small Business,2022-06-23
+C00441,Fes,Consumer,2023-01-07
+C00442,Marrakech,Corporate,2022-04-02
+C00443,Agadir,Small Business,2024-02-10
+C00444,Tangier,Corporate,2022-07-03
+C00445,Agadir,Small Business,2023-01-12
+C00446,Tangier,Corporate,2024-09-07
+C00447,Agadir,Small Business,2023-08-15
+C00448,Marrakech,Corporate,2023-04-04
+C00449,Tangier,Small Business,2023-06-28
+C00450,Marrakech,Small Business,2024-02-24
+C00451,Rabat,Consumer,2022-09-12
+C00452,Fes,Consumer,2023-09-29
+C00453,Marrakech,Consumer,2024-05-22
+C00454,Fes,Corporate,2023-07-27
+C00455,Fes,Consumer,2023-03-23
+C00456,Rabat,Consumer,2022-05-26
+C00457,Fes,Small Business,2022-09-06
+C00458,Marrakech,Corporate,2024-08-04
+C00459,Agadir,Corporate,2023-06-26
+C00460,Agadir,Small Business,2022-10-29
+C00461,Casablanca,Consumer,2023-02-23
+C00462,Marrakech,Consumer,2023-08-02
+C00463,Marrakech,Consumer,2023-06-22
+C00464,Marrakech,Consumer,2023-12-01
+C00465,Fes,Corporate,2022-09-15
+C00466,Rabat,Small Business,2023-10-12
+C00467,Casablanca,Consumer,2023-03-19
+C00468,Agadir,Small Business,2024-07-29
+C00469,Fes,Consumer,2022-06-07
+C00470,Fes,Small Business,2022-05-29
+C00471,Casablanca,Consumer,2023-04-07
+C00472,Agadir,Small Business,2023-05-24
+C00473,Tangier,Small Business,2023-11-22
+C00474,Tangier,Small Business,2023-02-09
+C00475,Rabat,Consumer,2024-07-02
+C00476,Marrakech,Small Business,2023-04-20
+C00477,Casablanca,Consumer,2022-05-10
+C00478,Tangier,Small Business,2022-04-30
+C00479,Casablanca,Corporate,2024-08-31
+C00480,Fes,Corporate,2022-05-15
+C00481,Casablanca,Consumer,2024-08-05
+C00482,Rabat,Corporate,2022-10-06
+C00483,Marrakech,Consumer,2022-04-04
+C00484,Rabat,Consumer,2022-11-01
+C00485,Agadir,Small Business,2023-09-07
+C00486,Agadir,Corporate,2023-03-04
+C00487,Agadir,Consumer,2024-02-25
+C00488,Agadir,Small Business,2023-09-03
+C00489,Tangier,Small Business,2023-02-05
+C00490,Marrakech,Corporate,2023-09-27
+C00491,Tangier,Small Business,2024-08-29
+C00492,Agadir,Corporate,2023-02-16
+C00493,Casablanca,Corporate,2022-06-03
+C00494,Fes,Consumer,2023-02-13
+C00495,Rabat,Corporate,2024-04-20
+C00496,Rabat,Small Business,2022-08-06
+C00497,Fes,Consumer,2024-08-07
+C00498,Rabat,Consumer,2023-08-12
+C00499,Rabat,Corporate,2023-08-25
+C00500,Casablanca,Consumer,2022-11-14
+C00501,Casablanca,Small Business,2024-07-09
+C00502,Tangier,Corporate,2022-02-06
+C00503,Agadir,Small Business,2022-10-26
+C00504,Marrakech,Consumer,2023-02-23
+C00505,Rabat,Small Business,2023-04-23
+C00506,Fes,Small Business,2023-04-20
+C00507,Fes,Small Business,2022-05-28
+C00508,Casablanca,Corporate,2022-08-14
+C00509,Rabat,Small Business,2022-04-06
+C00510,Fes,Corporate,2023-07-27
+C00511,Fes,Consumer,2022-12-17
+C00512,Tangier,Consumer,2023-07-20
+C00513,Agadir,Consumer,2023-08-13
+C00514,Fes,Consumer,2023-12-04
+C00515,Marrakech,Consumer,2023-07-02
+C00516,Casablanca,Consumer,2023-10-10
+C00517,Rabat,Small Business,2023-08-11
+C00518,Agadir,Corporate,2023-10-15
+C00519,Agadir,Small Business,2023-09-09
+C00520,Tangier,Consumer,2022-11-13
+C00521,Tangier,Corporate,2022-09-04
+C00522,Marrakech,Corporate,2024-02-27
+C00523,Tangier,Small Business,2022-12-09
+C00524,Agadir,Corporate,2023-07-04
+C00525,Tangier,Small Business,2022-07-16
+C00526,Casablanca,Corporate,2023-03-08
+C00527,Casablanca,Small Business,2023-06-14
+C00528,Fes,Small Business,2023-09-19
+C00529,Agadir,Small Business,2023-06-11
+C00530,Casablanca,Consumer,2022-12-27
+C00531,Rabat,Corporate,2024-08-19
+C00532,Agadir,Corporate,2023-05-28
+C00533,Casablanca,Corporate,2024-03-19
+C00534,Marrakech,Corporate,2024-01-07
+C00535,Casablanca,Consumer,2023-07-13
+C00536,Tangier,Corporate,2024-06-05
+C00537,Fes,Small Business,2022-05-09
+C00538,Marrakech,Consumer,2024-07-10
+C00539,Agadir,Small Business,2024-04-30
+C00540,Fes,Small Business,2023-05-19
+C00541,Casablanca,Small Business,2024-01-04
+C00542,Marrakech,Small Business,2023-06-05
+C00543,Marrakech,Small Business,2022-09-26
+C00544,Fes,Consumer,2024-03-10
+C00545,Rabat,Small Business,2022-09-03
+C00546,Tangier,Corporate,2022-11-11
+C00547,Tangier,Small Business,2023-06-04
+C00548,Fes,Small Business,2024-04-17
+C00549,Agadir,Consumer,2023-01-19
+C00550,Tangier,Consumer,2023-05-10
+C00551,Marrakech,Small Business,2022-02-11
+C00552,Marrakech,Consumer,2022-04-26
+C00553,Tangier,Corporate,2022-02-25
+C00554,Casablanca,Corporate,2022-03-14
+C00555,Agadir,Small Business,2024-05-18
+C00556,Tangier,Consumer,2024-04-21
+C00557,Rabat,Corporate,2024-04-01
+C00558,Marrakech,Corporate,2022-02-25
+C00559,Tangier,Corporate,2022-03-19
+C00560,Tangier,Consumer,2022-10-08
+C00561,Rabat,Small Business,2023-07-20
+C00562,Agadir,Consumer,2022-12-01
+C00563,Marrakech,Small Business,2023-05-03
+C00564,Fes,Small Business,2022-06-22
+C00565,Casablanca,Consumer,2024-01-01
+C00566,Fes,Corporate,2022-11-10
+C00567,Rabat,Corporate,2022-03-08
+C00568,Rabat,Small Business,2024-01-13
+C00569,Agadir,Consumer,2024-06-21
+C00570,Agadir,Small Business,2022-01-15
+C00571,Casablanca,Consumer,2023-03-13
+C00572,Casablanca,Small Business,2024-04-07
+C00573,Casablanca,Corporate,2023-12-08
+C00574,Rabat,Small Business,2024-05-06
+C00575,Fes,Small Business,2023-02-20
+C00576,Agadir,Corporate,2023-01-08
+C00577,Marrakech,Small Business,2023-12-11
+C00578,Tangier,Small Business,2022-06-03
+C00579,Rabat,Small Business,2022-08-28
+C00580,Agadir,Consumer,2023-08-24
+C00581,Tangier,Consumer,2023-10-31
+C00582,Agadir,Corporate,2022-04-30
+C00583,Fes,Consumer,2023-05-24
+C00584,Casablanca,Small Business,2022-12-31
+C00585,Tangier,Small Business,2023-05-17
+C00586,Agadir,Small Business,2024-08-16
+C00587,Casablanca,Small Business,2022-03-18
+C00588,Fes,Small Business,2024-09-22
+C00589,Agadir,Corporate,2023-03-26
+C00590,Fes,Small Business,2024-02-12
+C00591,Rabat,Small Business,2023-03-01
+C00592,Agadir,Small Business,2022-11-07
+C00593,Marrakech,Small Business,2024-02-10
+C00594,Agadir,Corporate,2023-11-19
+C00595,Tangier,Small Business,2022-05-25
+C00596,Marrakech,Consumer,2023-12-07
+C00597,Fes,Consumer,2024-01-24
+C00598,Agadir,Small Business,2023-01-23
+C00599,Rabat,Small Business,2024-07-14
+C00600,Casablanca,Small Business,2023-10-03
+C00601,Fes,Small Business,2022-11-30
+C00602,Fes,Small Business,2022-01-11
+C00603,Tangier,Corporate,2023-11-06
+C00604,Fes,Consumer,2022-07-29
+C00605,Tangier,Consumer,2024-01-27
+C00606,Rabat,Corporate,2023-06-10
+C00607,Agadir,Small Business,2023-04-12
+C00608,Casablanca,Small Business,2022-06-13
+C00609,Casablanca,Corporate,2023-12-13
+C00610,Tangier,Consumer,2022-06-15
+C00611,Fes,Consumer,2023-02-22
+C00612,Tangier,Corporate,2024-04-16
+C00613,Rabat,Consumer,2024-07-09
+C00614,Tangier,Small Business,2024-09-16
+C00615,Marrakech,Corporate,2024-08-16
+C00616,Fes,Small Business,2023-07-10
+C00617,Fes,Consumer,2022-07-20
+C00618,Marrakech,Corporate,2024-04-19
+C00619,Agadir,Small Business,2024-03-12
+C00620,Marrakech,Corporate,2024-09-17
+C00621,Fes,Small Business,2023-10-13
+C00622,Agadir,Consumer,2022-05-22
+C00623,Agadir,Consumer,2023-05-18
+C00624,Rabat,Corporate,2023-03-25
+C00625,Fes,Small Business,2024-04-22
+C00626,Rabat,Corporate,2023-01-28
+C00627,Casablanca,Small Business,2022-11-25
+C00628,Casablanca,Corporate,2022-03-22
+C00629,Fes,Consumer,2024-04-15
+C00630,Tangier,Consumer,2024-01-26
+C00631,Fes,Small Business,2022-02-11
+C00632,Casablanca,Consumer,2023-03-10
+C00633,Marrakech,Consumer,2023-04-25
+C00634,Marrakech,Small Business,2023-04-15
+C00635,Marrakech,Small Business,2024-07-07
+C00636,Rabat,Consumer,2022-05-31
+C00637,Agadir,Small Business,2022-11-03
+C00638,Agadir,Corporate,2022-06-30
+C00639,Rabat,Consumer,2022-09-02
+C00640,Rabat,Consumer,2024-06-26
+C00641,Agadir,Small Business,2024-07-29
+C00642,Agadir,Corporate,2022-02-14
+C00643,Rabat,Small Business,2023-09-25
+C00644,Agadir,Consumer,2022-08-21
+C00645,Rabat,Small Business,2022-07-12
+C00646,Fes,Small Business,2022-10-20
+C00647,Tangier,Small Business,2022-07-14
+C00648,Fes,Consumer,2023-05-06
+C00649,Tangier,Small Business,2024-09-22
+C00650,Fes,Corporate,2023-08-10
+C00651,Rabat,Consumer,2023-12-25
+C00652,Tangier,Small Business,2023-05-09
+C00653,Agadir,Small Business,2022-01-14
+C00654,Fes,Small Business,2022-03-26
+C00655,Fes,Small Business,2022-09-26
+C00656,Tangier,Small Business,2022-09-01
+C00657,Rabat,Small Business,2024-04-20
+C00658,Tangier,Consumer,2024-04-23
+C00659,Rabat,Small Business,2024-05-04
+C00660,Agadir,Small Business,2023-09-30
+C00661,Agadir,Small Business,2023-07-11
+C00662,Fes,Small Business,2023-10-12
+C00663,Casablanca,Corporate,2023-02-11
+C00664,Tangier,Small Business,2023-11-02
+C00665,Casablanca,Corporate,2024-03-05
+C00666,Fes,Corporate,2024-02-02
+C00667,Casablanca,Corporate,2023-09-06
+C00668,Fes,Small Business,2022-02-28
+C00669,Marrakech,Consumer,2023-12-26
+C00670,Agadir,Small Business,2023-01-02
+C00671,Rabat,Corporate,2024-01-14
+C00672,Rabat,Corporate,2023-06-24
+C00673,Marrakech,Corporate,2024-05-31
+C00674,Fes,Corporate,2022-12-05
+C00675,Fes,Consumer,2024-07-20
+C00676,Fes,Consumer,2024-04-24
+C00677,Fes,Corporate,2022-11-28
+C00678,Casablanca,Small Business,2023-04-28
+C00679,Tangier,Consumer,2023-06-16
+C00680,Agadir,Small Business,2024-02-08
+C00681,Fes,Consumer,2023-11-21
+C00682,Casablanca,Small Business,2024-05-02
+C00683,Marrakech,Corporate,2023-01-05
+C00684,Tangier,Consumer,2023-05-20
+C00685,Rabat,Consumer,2023-03-07
+C00686,Agadir,Small Business,2024-06-28
+C00687,Agadir,Corporate,2022-11-01
+C00688,Marrakech,Consumer,2023-08-11
+C00689,Marrakech,Small Business,2022-05-01
+C00690,Marrakech,Corporate,2024-04-30
+C00691,Marrakech,Consumer,2023-01-20
+C00692,Tangier,Consumer,2022-12-07
+C00693,Rabat,Consumer,2023-08-06
+C00694,Fes,Corporate,2023-05-14
+C00695,Fes,Small Business,2024-04-27
+C00696,Agadir,Small Business,2023-06-16
+C00697,Casablanca,Small Business,2023-06-01
+C00698,Casablanca,Small Business,2022-04-15
+C00699,Agadir,Consumer,2022-01-22
+C00700,Tangier,Small Business,2023-02-03

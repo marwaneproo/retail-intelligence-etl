@@ -1,0 +1,6 @@
+table,check,affected_rows
+orders,duplicate order_id removed,6
+orders,invalid order_date,0
+order_items,missing/non-positive quantity or price removed,18
+order_items,discount rate capped to valid 0-80% range,8
+order_items,orphan order/product keys removed,0

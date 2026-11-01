@@ -1,0 +1,91 @@
+product_id,product_name,category,supplier_id,unit_cost,list_price,active
+P0001,Electronics Product 001,Electronics,S001,702.21,1035.09,True
+P0002,Home Product 002,Home & Kitchen,S002,635.2,789.62,False
+P0003,Sports Product 003,Sports,S003,878.67,1484.92,True
+P0004,Beauty Product 004,Beauty,S004,137.1,203.15,False
+P0005,Office Product 005,Office,S005,349.45,629.34,False
+P0006,Fashion Product 006,Fashion,S006,744.92,1100.31,True
+P0007,Electronics Product 007,Electronics,S007,223.83,347.29,False
+P0008,Home Product 008,Home & Kitchen,S008,749.18,1201.1,True
+P0009,Sports Product 009,Sports,S009,688.33,975.73,True
+P0010,Beauty Product 010,Beauty,S010,806.48,1372.24,False
+P0011,Office Product 011,Office,S011,195.31,291.54,True
+P0012,Fashion Product 012,Fashion,S012,160.0,262.02,True
+P0013,Electronics Product 013,Electronics,S013,676.67,1237.11,True
+P0014,Home Product 014,Home & Kitchen,S014,349.15,521.84,True
+P0015,Sports Product 015,Sports,S015,190.79,241.74,True
+P0016,Beauty Product 016,Beauty,S016,223.55,364.11,True
+P0017,Office Product 017,Office,S017,407.51,708.21,True
+P0018,Fashion Product 018,Fashion,S018,298.32,518.37,True
+P0019,Electronics Product 019,Electronics,S001,729.17,1049.72,False
+P0020,Home Product 020,Home & Kitchen,S002,622.18,792.43,True
+P0021,Sports Product 021,Sports,S003,199.92,236.89,False
+P0022,Beauty Product 022,Beauty,S004,606.74,1002.61,False
+P0023,Office Product 023,Office,S005,708.14,1053.34,True
+P0024,Fashion Product 024,Fashion,S006,147.32,185.14,True
+P0025,Electronics Product 025,Electronics,S007,609.85,912.11,False
+P0026,Home Product 026,Home & Kitchen,S008,694.37,1114.65,True
+P0027,Sports Product 027,Sports,S009,509.38,791.92,False
+P0028,Beauty Product 028,Beauty,S010,51.97,76.53,True
+P0029,Office Product 029,Office,S011,212.76,309.29,False
+P0030,Fashion Product 030,Fashion,S012,229.7,280.02,False
+P0031,Electronics Product 031,Electronics,S013,271.21,373.38,True
+P0032,Home Product 032,Home & Kitchen,S014,512.4,873.75,True
+P0033,Sports Product 033,Sports,S015,606.27,880.47,True
+P0034,Beauty Product 034,Beauty,S016,171.1,204.5,False
+P0035,Office Product 035,Office,S017,103.79,172.7,True
+P0036,Fashion Product 036,Fashion,S018,166.11,251.77,True
+P0037,Electronics Product 037,Electronics,S001,158.27,260.6,True
+P0038,Home Product 038,Home & Kitchen,S002,358.39,495.3,True
+P0039,Sports Product 039,Sports,S003,576.5,820.02,False
+P0040,Beauty Product 040,Beauty,S004,128.26,234.01,True
+P0041,Office Product 041,Office,S005,820.01,1352.04,True
+P0042,Fashion Product 042,Fashion,S006,873.03,1485.69,True
+P0043,Electronics Product 043,Electronics,S007,652.28,966.07,True
+P0044,Home Product 044,Home & Kitchen,S008,109.34,195.14,True
+P0045,Sports Product 045,Sports,S009,423.8,557.54,True
+P0046,Beauty Product 046,Beauty,S010,531.82,690.54,True
+P0047,Office Product 047,Office,S011,774.54,1307.58,True
+P0048,Fashion Product 048,Fashion,S012,403.08,645.05,True
+P0049,Electronics Product 049,Electronics,S013,536.09,866.0,True
+P0050,Home Product 050,Home & Kitchen,S014,388.83,469.66,True
+P0051,Sports Product 051,Sports,S015,457.24,640.6,True
+P0052,Beauty Product 052,Beauty,S016,115.48,181.73,True
+P0053,Office Product 053,Office,S017,174.27,313.66,False
+P0054,Fashion Product 054,Fashion,S018,328.51,517.7,True
+P0055,Electronics Product 055,Electronics,S001,44.95,81.91,True
+P0056,Home Product 056,Home & Kitchen,S002,709.89,877.02,True
+P0057,Sports Product 057,Sports,S003,450.83,680.2,True
+P0058,Beauty Product 058,Beauty,S004,525.26,786.44,False
+P0059,Office Product 059,Office,S005,258.6,362.6,True
+P0060,Fashion Product 060,Fashion,S006,409.05,488.6,True
+P0061,Electronics Product 061,Electronics,S007,748.01,1331.78,True
+P0062,Home Product 062,Home & Kitchen,S008,509.78,638.62,True
+P0063,Sports Product 063,Sports,S009,613.21,839.13,True
+P0064,Beauty Product 064,Beauty,S010,661.12,1120.59,True
+P0065,Office Product 065,Office,S011,119.27,213.94,False
+P0066,Fashion Product 066,Fashion,S012,57.74,89.6,True
+P0067,Electronics Product 067,Electronics,S013,349.56,606.82,True
+P0068,Home Product 068,Home & Kitchen,S014,302.5,550.08,False
+P0069,Sports Product 069,Sports,S015,279.55,426.34,False
+P0070,Beauty Product 070,Beauty,S016,844.04,1089.05,True
+P0071,Office Product 071,Office,S017,64.3,94.62,False
+P0072,Fashion Product 072,Fashion,S018,805.22,1354.03,False
+P0073,Electronics Product 073,Electronics,S001,804.44,1430.78,True
+P0074,Home Product 074,Home & Kitchen,S002,301.44,511.62,True
+P0075,Sports Product 075,Sports,S003,603.95,863.86,False
+P0076,Beauty Product 076,Beauty,S004,678.44,919.86,True
+P0077,Office Product 077,Office,S005,844.71,1133.14,True
+P0078,Fashion Product 078,Fashion,S006,752.22,964.87,True
+P0079,Electronics Product 079,Electronics,S007,181.86,287.63,True
+P0080,Home Product 080,Home & Kitchen,S008,196.88,273.25,False
+P0081,Sports Product 081,Sports,S009,705.23,1291.36,True
+P0082,Beauty Product 082,Beauty,S010,150.91,179.48,True
+P0083,Office Product 083,Office,S011,225.95,286.58,True
+P0084,Fashion Product 084,Fashion,S012,131.6,199.93,True
+P0085,Electronics Product 085,Electronics,S013,632.48,992.58,True
+P0086,Home Product 086,Home & Kitchen,S014,728.61,1209.0,True
+P0087,Sports Product 087,Sports,S015,671.61,851.47,True
+P0088,Beauty Product 088,Beauty,S016,836.62,1210.07,True
+P0089,Office Product 089,Office,S017,288.33,434.61,True
+P0090,Fashion Product 090,Fashion,S018,861.17,1181.46,True
