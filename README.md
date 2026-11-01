@@ -54,31 +54,31 @@ The Excel workbook contains six source tables and one data dictionary:
 
 The pipeline generates five charts to explore the main business dimensions.
 
-### 01 — Monthly Revenue & Profit
+### 01 Monthly Revenue & Profit
 
 Monthly trends in net revenue and gross profit.
 
 ![Monthly Revenue and Profit](output/figures/01_monthly_revenue_profit.png)
 
-### 02 — Product Portfolio
+### 02 Product Portfolio
 
 Product-level performance and profitability analysis.
 
 ![Product Portfolio](output/figures/02_product_portfolio.png)
 
-### 03 — Regional Performance
+### 03 Regional Performance
 
 Comparison of sales performance across regions.
 
 ![Regional Performance](output/figures/03_regional_performance.png)
 
-### 04 — Inventory Health
+### 04 Inventory Health
 
 Identification of inventory risk and stock health.
 
 ![Inventory Health](output/figures/04_inventory_health.png)
 
-### 05 — Category Mix
+### 05 Category Mix
 
 Revenue contribution across product categories.
 
@@ -90,11 +90,11 @@ The visualizations support practical business decisions by translating analytica
 
 | Visualization                     | What to Analyze                                                            | Recommended Business Actions                                                                                                            |
 | --------------------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| **01 — Monthly Revenue & Profit** | Revenue trends, profitability changes and seasonal patterns.               | Investigate revenue declines, identify profitable periods, adjust sales targets and align purchasing plans with demand trends.          |
-| **02 — Product Portfolio**        | Products generating high revenue, low margins or weak profitability.       | Prioritize high-margin products, review pricing and supplier costs, and reassess products generating revenue without sufficient profit. |
-| **03 — Regional Performance**     | Differences in revenue and profitability across regions.                   | Strengthen sales strategies in high-performing regions and investigate underperforming markets through targeted commercial actions.     |
-| **04 — Inventory Health**         | Products with low stock coverage, potential stockouts or excess inventory. | Prioritize replenishment for critical products, reduce unnecessary stock accumulation and review supplier lead times.                   |
-| **05 — Category Mix**             | Revenue contribution and dependency on specific product categories.        | Optimize product assortment, diversify revenue sources and allocate commercial resources according to category performance.             |
+| **01 Monthly Revenue & Profit** | Revenue trends, profitability changes and seasonal patterns.               | Investigate revenue declines, identify profitable periods, adjust sales targets and align purchasing plans with demand trends.          |
+| **02 Product Portfolio**        | Products generating high revenue, low margins or weak profitability.       | Prioritize high-margin products, review pricing and supplier costs, and reassess products generating revenue without sufficient profit. |
+| **03 Regional Performance**     | Differences in revenue and profitability across regions.                   | Strengthen sales strategies in high-performing regions and investigate underperforming markets through targeted commercial actions.     |
+| **04 Inventory Health**         | Products with low stock coverage, potential stockouts or excess inventory. | Prioritize replenishment for critical products, reduce unnecessary stock accumulation and review supplier lead times.                   |
+| **05 Category Mix**             | Revenue contribution and dependency on specific product categories.        | Optimize product assortment, diversify revenue sources and allocate commercial resources according to category performance.             |
 
 ### From Analysis to Action
 
