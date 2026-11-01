@@ -169,7 +169,7 @@ def save_outputs(clean, fact, sales, monthly, product, region, inv):
     clean["quality"].to_csv(OUTPUT_DIR/"data_quality_report.csv",index=False)
 
 def make_charts(monthly, product, region, inv):
-    # 1. Revenue & profit trend
+    # 1 Revenue & profit trend
     fig,ax=plt.subplots()
     x=pd.to_datetime(monthly["order_month"])
     ax.plot(x,monthly["revenue"],marker="o",linewidth=2.8,label="Net revenue")
@@ -204,7 +204,7 @@ def make_charts(monthly, product, region, inv):
         ax.text(val, b.get_y()+b.get_height()/2, f"  {val:,.0f}",va="center",fontsize=8)
     fig.tight_layout(); fig.savefig(FIGURE_DIR/"03_regional_performance.png"); plt.close(fig)
 
-    # 4. Inventory risk
+    # 4 Inventory risk
     status=inv["inventory_status"].value_counts()
     fig,ax=plt.subplots()
     bars=ax.bar(status.index,status.values)
@@ -214,7 +214,7 @@ def make_charts(monthly, product, region, inv):
     ax.tick_params(axis="x",rotation=12)
     fig.tight_layout(); fig.savefig(FIGURE_DIR/"04_inventory_health.png"); plt.close(fig)
 
-    # 5. Category revenue mix
+    # 5 Category revenue mix
     cat=product.groupby("category",as_index=False)["revenue"].sum().sort_values("revenue")
     fig,ax=plt.subplots()
     ax.barh(cat["category"],cat["revenue"])
