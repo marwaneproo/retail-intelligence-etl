@@ -1,4 +1,3 @@
-
 from pathlib import Path
 import logging
 import pandas as pd
@@ -193,6 +192,7 @@ def make_charts(monthly, product, region, inv):
     fig.tight_layout(); fig.savefig(FIGURE_DIR/"02_product_portfolio.png"); plt.close(fig)
 
     # 3 Regional revenue and margin
+    
     r=region.sort_values("revenue")
     fig,ax=plt.subplots()
     bars=ax.barh(r["region"],r["revenue"])
@@ -205,6 +205,7 @@ def make_charts(monthly, product, region, inv):
     fig.tight_layout(); fig.savefig(FIGURE_DIR/"03_regional_performance.png"); plt.close(fig)
 
     # 4 Inventory risk
+    
     status=inv["inventory_status"].value_counts()
     fig,ax=plt.subplots()
     bars=ax.bar(status.index,status.values)
@@ -215,6 +216,7 @@ def make_charts(monthly, product, region, inv):
     fig.tight_layout(); fig.savefig(FIGURE_DIR/"04_inventory_health.png"); plt.close(fig)
 
     # 5 Category revenue mix
+    
     cat=product.groupby("category",as_index=False)["revenue"].sum().sort_values("revenue")
     fig,ax=plt.subplots()
     ax.barh(cat["category"],cat["revenue"])
@@ -225,6 +227,7 @@ def make_charts(monthly, product, region, inv):
     fig.tight_layout(); fig.savefig(FIGURE_DIR/"05_category_mix.png"); plt.close(fig)
 
 def main():
+    
     logging.info("Starting Retail Intelligence ETL")
     raw=load_source()
     clean=clean_sources(raw)
